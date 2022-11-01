@@ -96,7 +96,16 @@ body{
     padding: 50px;
 }
 
+.image {
+   
+    float: left;
+    display: inline-block;
+}
 
+.text {
+    text-align: center;
+    margin-left: 5.5%;
+}
 
 
 .button {
